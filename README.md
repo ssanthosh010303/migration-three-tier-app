@@ -11,5 +11,5 @@ This project is a three-tier web architecture built using Amazon Web Services (A
 
 Below is a description of the components and how they interact across the three tiers.
 
-![3-tier Architecture Implemented in AWS](./assets/architecture-light.png#gh-light-theme-only)
-![3-tier Architecture Implemented in AWS](./assets/architecture-dark.png#gh-dark-theme-only)
+![3-tier Architecture Implemented in AWS](./assets/architecture-light.png#gh-light-mode-only)
+![3-tier Architecture Implemented in AWS](./assets/architecture-dark.png#gh-dark-mode-only)
